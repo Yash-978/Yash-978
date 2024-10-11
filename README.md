@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-978" alt="yash-978" /></a> </p>
 
-- 🔭 I’m currently working on [Resume App](https://github.com/Yash-978/resume_app_daily_task/tree/master)
 
 - 🌱 I’m currently learning **Flutter framework**
 
